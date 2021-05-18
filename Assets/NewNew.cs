@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class NewNew : MonoBehaviour
 {
+    // i wanna merge to master branch this contents
+    // asdfasdfasfd
     // Start is called before the first frame update
     void Start()
     {
