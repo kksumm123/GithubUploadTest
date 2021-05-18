@@ -6,6 +6,10 @@ public class NewNew : MonoBehaviour
 {
     // 0522 New Branch
     // haha
+    
+    // i wanna merge to master branch this contents
+    // asdfasdfasfd
+    /
     // Start is called before the first frame update
     void Start()
     {
